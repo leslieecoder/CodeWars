@@ -19,6 +19,7 @@ function domainName(url){
     // Split by "." and return the first part
     const parts = url.split(".");
     return parts[0]; // This is the domain name
+    //neww
 }
   
 
